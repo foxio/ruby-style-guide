@@ -2794,6 +2794,7 @@ hash rockets syntax.
 * Avoid more than three levels of block nesting.
 * Be consistent. In an ideal world, be consistent with these guidelines.
 * Use common sense.
+* Storing sensitive data like account keys use `environment variables`
 
 ## Tools
 
